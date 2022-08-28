@@ -1,0 +1,1 @@
+# django_vk_aiogram_bot
